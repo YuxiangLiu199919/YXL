@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-order-8005/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-respotsity/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-app/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-api-parent/springcloud-order-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-api-parent/springcloud-order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-8005-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-api-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springcloud-consumer-hystirx-dashboard-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-hystirx-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-user-80/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-user-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order-8005/springcloud-order-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-order-8005/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-user-8001/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

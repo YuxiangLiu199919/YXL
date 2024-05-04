@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springcloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-respotsity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-respotsity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/springcloud-order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-8005-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-api-parent/springcloud-order-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-api-parent/springcloud-order-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-api-parent/springcloud-order-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-api-parent/springcloud-order-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-api-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-api-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-1000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-1000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-api-parent/springcloud-pay-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-api-parent/springcloud-pay-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-api-parent/springcloud-pay-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-api-parent/springcloud-pay-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-api-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-pay-api-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-admin-hystrix-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-admin-hystrix-8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-order-8005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-order-8005/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-user-hystrix-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-user-hystrix-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+
+Z
+java:S2259ù"DA "NullPointerException" could be thrown; "hasKey" is nullable here.(òè
+c
+java:S2259ñ"GA "NullPointerException" could be thrown; "getExpire" is nullable here.(¸ÎÆşÿÿÿÿ
+S
+java:S2589…"7Remove this expression which always evaluates to "true"(Ü¹­Òøÿÿÿÿ
+I
+java:S1905ˆ"-Remove this unnecessary cast to "Collection".(•İ¦üÿÿÿÿ

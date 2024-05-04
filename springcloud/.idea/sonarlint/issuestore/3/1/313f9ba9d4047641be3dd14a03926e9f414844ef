@@ -1,0 +1,18 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ΊφΊύÿÿÿÿ
+a
+java:S1192("FDefine a constant instead of duplicating this literal "false" 4 times.(Ϊεμ½ωÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φ‰Ξ‚
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φ‰Ξ‚
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φ‰Ξ‚
+>
+java:S5411""(Use a primitive boolean expression here.(€‘¨Δ
+>
+java:S5411/"(Use a primitive boolean expression here.(€‘¨Δ
+P
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8βεβοπ1
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(φ‰Ξ‚
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(ψ—Φωÿÿÿÿ8λεβοπ1

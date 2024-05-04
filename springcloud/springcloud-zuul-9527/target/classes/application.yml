@@ -1,0 +1,27 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: springcloud-zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/
+#      ,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: zuul-9527.com
+    prefer-ip-address: true
+zuul:
+  sensitive-headers: Access-Control-Allow-Origin
+  ignored-headers: Access-Control-Allow-Origin,H-APP-Id,Token,APPToken
+  routes:
+    myuser.serviceId: springcloud-provider-user,springcloud-order-app
+    myuser.path: /myuser/**
+#  ignored-services: springcloud-provider-user #不能再使用这个路径访问了
+  ignored-services: "*" #不能再使用这个路径访问了,隐藏全部
+#  prefix: /etc #设置公共前缀，一般不建议设置
+
+
+info:
+  app.name: etc-springcloud
+  company.name: etc.com

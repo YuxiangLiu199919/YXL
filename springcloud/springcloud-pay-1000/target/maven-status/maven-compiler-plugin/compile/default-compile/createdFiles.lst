@@ -1,0 +1,3 @@
+com\etc\springcloud\controller\PayController.class
+com\etc\springcloud\CorsConfig.class
+com\etc\springcloud\UserPay.class

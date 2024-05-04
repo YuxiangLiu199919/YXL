@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-order-client" />
+        <module name="springcloud-zuul-9527" />
+        <module name="springcloud-Order-app" />
+        <module name="springcloud-eureka-7001" />
+        <module name="springcloud-Order-api" />
+        <module name="springcloud-pay-api" />
+        <module name="springcloud-order-respotsity" />
+        <module name="springcloud-api" />
+        <module name="springcloud-provider-admin-hystrix-8002" />
+        <module name="springcloud-order-app" />
+        <module name="springcloud-pay-client" />
+        <module name="springcloud-Order-service" />
+        <module name="springcloud-Order-client" />
+        <module name="springcloud-pay-1000" />
+        <module name="springcloud-provider-user-hystrix-8001" />
+        <module name="springcloud-Order-respotsity" />
+        <module name="springcloud-order-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-consumer-hystirx-dashboard-9001" target="8" />
+      <module name="springcloud-consumer-user-80" target="1.8" />
+      <module name="springcloud-consumer-user-feign" target="1.8" />
+      <module name="springcloud-eureka-7002" target="1.8" />
+      <module name="springcloud-eureka-7003" target="1.8" />
+      <module name="springcloud-order-8005-parent" target="1.8" />
+      <module name="springcloud-order-api-parent" target="1.8" />
+      <module name="springcloud-Order-client (1)" target="1.8" />
+      <module name="springcloud-order-service" target="1.8" />
+      <module name="springcloud-provider-user-8001" target="8" />
+      <module name="springcloud-provider-user-hystrix-8001 (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

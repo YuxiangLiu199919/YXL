@@ -1,0 +1,37 @@
+server:
+  port: 1000
+#mybatis
+mybatis:
+  type-aliases-package: com.etc.springcloud.pojo
+  mapper-locations: classpath:mapper/*.xml
+
+#spring
+spring:
+  application:
+    name: springclond-pay-app
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/shop?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 123456
+
+#开启预加载
+ribbon:
+  eager-load:
+    clients: springclond-pay,springclond-order-8005-app
+    enabled: true
+
+#Eureka配置 服务注册到哪里
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/
+#      ,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: springclond-pay-1000 #修改Eureka上默认描述信息！
+#监控信息页面
+info:
+  app.name: etc-springcloud
+  company.name: com.etc
+
+

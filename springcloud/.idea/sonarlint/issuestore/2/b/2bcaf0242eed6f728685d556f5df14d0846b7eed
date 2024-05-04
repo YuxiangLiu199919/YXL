@@ -1,0 +1,18 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹À€Óúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹À€Óúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹À€Óúÿÿÿÿ
+l	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â†âèùÿÿÿÿ
+r	java:S116"XRename this field "receiver_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±èÉ„ùÿÿÿÿ
+p	java:S116"[Rename this field "receiver_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äà‹ï
+m	java:S116"YRename this field "receiver_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¶˜2
+<
+java:S1068"'Remove this unused "aid" private field.(´ÔÖ:
+F
+java:S1068"+Remove this unused "user_id" private field.(â†âèùÿÿÿÿ
+L
+java:S1068"1Remove this unused "receiver_name" private field.(±èÉ„ùÿÿÿÿ
+J
+java:S1068"4Remove this unused "receiver_address" private field.(äà‹ï
+G
+java:S1068"2Remove this unused "receiver_phone" private field.(Ë¶˜2
