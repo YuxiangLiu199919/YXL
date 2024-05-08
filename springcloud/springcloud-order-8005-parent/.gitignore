@@ -1,0 +1,7 @@
+#ignore this file
+target/ 
+.idea/
+.svn/
+#class file
+*.class
+*.iml
